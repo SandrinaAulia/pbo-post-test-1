@@ -8,7 +8,7 @@ package com.mycompany.posttest1;
  *
  * @author ASUS
  */
-//propoerti
+//property
 public class Karyawan { 
     public String nama_karyawan;
     public String nomor_karyawan;
